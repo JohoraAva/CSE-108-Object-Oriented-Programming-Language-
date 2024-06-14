@@ -33,7 +33,3 @@ The course includes a project that requires students to apply all the OOP concep
 ### Project Ideas
 
 - **Football Player Database System**: A system to manage football players among different clubs
-
-
-
--
