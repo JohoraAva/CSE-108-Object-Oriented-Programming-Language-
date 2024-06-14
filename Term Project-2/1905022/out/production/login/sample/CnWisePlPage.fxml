@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane minHeight="-Infinity" prefHeight="410.0" prefWidth="500.0" style="-fx-background-color: #C6DBFB;" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.CnWisePlPage">
+   <children>
+      <TableView fx:id="table" layoutX="59.0" layoutY="65.0" prefHeight="279.0" prefWidth="358.0" style="-fx-background-color: white;">
+         <columns>
+            <TableColumn fx:id="colName" prefWidth="210.39998626708984" text="Country Name" />
+            <TableColumn fx:id="colNum" prefWidth="147.19998779296873" text="Player Number" />
+         </columns>
+      </TableView>
+      <Button fx:id="backBut" layoutX="68.0" layoutY="358.0" mnemonicParsing="false" onAction="#Goback" prefHeight="35.0" prefWidth="76.0" style="-fx-background-color:#5594F5;" text="Exit" textFill="WHITE">
+         <font>
+            <Font name="Corbel" size="19.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>
