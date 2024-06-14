@@ -1,6 +1,5 @@
 # CSE108-Object-Oriented-Programming-Language-
 
-# CSE108-Object-Oriented-Programming-Language-
 
 Welcome to the Object Oriented Programming Language (OOPL) Sessional Course repository. This repository contains the code, assignments, and project work for the OOP sessional course.
 
